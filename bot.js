@@ -343,7 +343,7 @@ client.on('message', message => {
 });
 
 client.on('ready', () => {
-var x = client.channels.get("526864877134807041");
+var x = client.channels.get("526864654245298176");
 if (x) x.join();
 });
 
